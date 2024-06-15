@@ -1,0 +1,20 @@
+.odd {
+    background-color: #ffb6c1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.special {
+    font-size: 24px;
+}
+
+#numberTwo {
+    color: #0000ff;
+    font-size: 36px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#numberFour {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
